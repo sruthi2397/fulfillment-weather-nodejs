@@ -6,7 +6,8 @@
   "license": "Apache Version 2.0",
   "author": "Google Inc.",
   "engines": {
-    "node": "~6.0"
+    "node": "4.2.6",
+    "npm":"2.14.12"
   },
   "scripts": {
     "start": "firebase serve --only functions:dialogflowFirebaseFulfillment",
